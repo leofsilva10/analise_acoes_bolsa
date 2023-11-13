@@ -25,17 +25,31 @@ Removendo valores nulos.
 
 <b>Análise Gráfica</b>
 
-Analisando a tendência dos preços.
+Analisando os preços.
 
-![image](https://github.com/leofsilva10/analise_acoes_bolsa/assets/114931860/3bafde65-64fc-4582-9ba9-776207380752)
+![image](https://github.com/leofsilva10/analise_acoes_bolsa/assets/114931860/49343009-e4b1-45e3-85cb-66b29d6d6b33)
+
+Analisando a tendência dos preços com a Média Móvel.
 
 As médias móveis indicam a direção a tendência, sendo a média móvel de 20 períodos a que melhor representa esse comportamento. Analisando a MM20 no gráfico abaixo, observamos que a inclinação da média para baixo sugere venda, enquanto a inclinação para cima sugere compra do ativo.
 
-![image](https://github.com/leofsilva10/analise_acoes_bolsa/assets/114931860/704c777e-53d0-460e-809b-22adfb0a1351)
+![image](https://github.com/leofsilva10/analise_acoes_bolsa/assets/114931860/6c3dfac0-9124-4034-8df0-19c163253567)
+
+![image](https://github.com/leofsilva10/analise_acoes_bolsa/assets/114931860/4c95c1dd-7463-4179-8556-95bbe8bf6bf1)
+
+![image](https://github.com/leofsilva10/analise_acoes_bolsa/assets/114931860/a1b3ea2f-f662-4ad8-88e5-9f4296bd0e86)
+
+![image](https://github.com/leofsilva10/analise_acoes_bolsa/assets/114931860/94bebfdd-03ca-41dc-8323-9a2b7d436311)
 
 Analisando a variação diária nos preços.
 
-![image](https://github.com/leofsilva10/analise_acoes_bolsa/assets/114931860/a124d38d-08f7-46f8-b556-76ac930fcb87)
+![image](https://github.com/leofsilva10/analise_acoes_bolsa/assets/114931860/dc6f7eca-16be-4925-8725-0b6a421f2e53)
+
+![image](https://github.com/leofsilva10/analise_acoes_bolsa/assets/114931860/89b51f47-0727-4c5e-8516-9088d8150b4c)
+
+![image](https://github.com/leofsilva10/analise_acoes_bolsa/assets/114931860/e47f86a1-e1ce-40ae-9836-aeff96e095ad)
+
+![image](https://github.com/leofsilva10/analise_acoes_bolsa/assets/114931860/cc52050b-e36b-474c-8440-e13a0b4f9c98)
 
 Analisando a Distribuição das cotações.
 
