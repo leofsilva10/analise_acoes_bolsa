@@ -5,7 +5,10 @@ Já pensou em investir em ações na Bolsa de Valores?
 
 Esse projeto de análise tem por objetivo identificar as melhores ações para investimento tendo como base o histórico das cotações dos ativos.
 
-Fonte de dados: https://br.financas.yahoo.com
+Fonte de dados:
+https://br.financas.yahoo.com
+
+<a href="https://github.com/leofsilva10/analise_acoes_bolsa/blob/master/analise_acoes_bolsa_para_investimento.ipynb" target="_blank">Clique aqui</a> e veja a análise completa com comandos Python.
 
 Segue abaixo o passo-a-passo do processo de análise dos dados.
 
